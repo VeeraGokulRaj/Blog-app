@@ -1,0 +1,15 @@
+{
+    "blogs":[
+        {
+            "title":"MSD Biopic",
+            "body":"lorem...",
+            "author":"Santho",
+            "id":1
+        },{
+            "title":"Peace and Happiness",
+            "body":"lorem...",
+            "author":"Rubi",
+            "id":2
+        }
+    ]
+}
